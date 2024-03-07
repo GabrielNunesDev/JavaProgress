@@ -1,6 +1,7 @@
-package org.com;
+package org.com.Introdução;
 
-/*1) Variável local
+/*
+1) Variável local
 Uma variável declarada dentro do corpo de um método é chamada de variável local. Você consegue usar esta variável apenas dentro do método e outro método
 na classe não terá conhecimento de que essa variável existe.
 
@@ -13,7 +14,8 @@ Uma variável declarada dentro da classe mas fora do corpo de um método, é cha
 
 3) Variável estática
 Uma variável que é considerada com static é chamada de variável estática. Ela não pode ser local. Você pode criar uma simples cópia de uma variável estática e
-compartilhar entre todas as instancias na classe. A alocação de memória para variáveis estáticas acontece apenas uma vez enquanto a classe é carregada em memória.*/
+compartilhar entre todas as instancias na classe. A alocação de memória para variáveis estáticas acontece apenas uma vez enquanto a classe é carregada em memória.
+*/
 
 
 public class TiposVariaveis {
